@@ -1,6 +1,6 @@
 ---
 name: Additional Errors
-about: 'Use this if you are unsure about the nature of the error or it can't fit into any other template'
+about: 'Use this if you are unsure about the nature of the error or it can nott fit into any other template'
 title: ''
 labels: other
 assignees: ''
